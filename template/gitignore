@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# log
+yarn-debug.log*
+yarn-error.log*
+
+# mac
+.DS_Store
+
+# production
+/build

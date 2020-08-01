@@ -1,0 +1,7 @@
+{
+  "package": {
+    "dependencies": {
+      "@material-ui/core": "latest"
+    }
+  }
+}

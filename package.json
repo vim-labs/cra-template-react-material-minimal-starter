@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-react-material-minimal-starter",
+  "version": "0.1.2",
+  "description": "A minimal React starter with Material-UI.",
+  "author": "Ryan Bell <ryan@vimlabs.com>",
+  "license": "MIT",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vim-labs/react-material-minimal-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vim-labs/react-material-minimal-starter/issues"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "material",
+    "material-ui",
+    "minimal"
+  ]
+}

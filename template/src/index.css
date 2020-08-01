@@ -1,0 +1,17 @@
+/* Full-screen vertical stack flexbox layout. */
+html {
+  overflow-x: hidden; /* Auto vertical scrolling only. */
+}
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
