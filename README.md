@@ -15,3 +15,16 @@ yarn start
 # create production build
 yarn build
 ```
+
+## Optional packages
+
+```bash
+# Icons
+yarn add @material-ui/icons # or yarn add react-icons
+
+# Components under development
+yarn add @material-ui/lab
+
+# Router
+yarn add react-router-dom
+```
