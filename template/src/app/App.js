@@ -5,11 +5,9 @@ import theme from "./theme";
 
 export default function App() {
   return (
-    <>
+    <ThemeProvider theme={theme}>
       <CssBaseline />
-      <ThemeProvider theme={theme}>
-        <Container maxWidth="lg">React App</Container>
-      </ThemeProvider>
-    </>
+      <Container maxWidth="lg">React App</Container>
+    </ThemeProvider>
   );
 }
